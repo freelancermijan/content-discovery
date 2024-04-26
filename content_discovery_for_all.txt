@@ -3,3 +3,4 @@
 /cgi-bin/FUZZ.cgi?FUZZ=%26id%26
 /home/admin
 /home/edit_user.php
+/users.csv
