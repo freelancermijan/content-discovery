@@ -2,3 +2,4 @@
 /cgi-bin/reset.cgi?db_prefix=%26id%26
 /cgi-bin/FUZZ.cgi?FUZZ=%26id%26
 /home/admin
+/home/edit_user.php
