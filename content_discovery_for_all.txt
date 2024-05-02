@@ -5,3 +5,4 @@
 /home/edit_user.php
 /users.csv
 /servudaemon.ini
+/.ftpconfig
