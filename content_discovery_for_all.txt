@@ -6,3 +6,4 @@
 /users.csv
 /servudaemon.ini
 /.ftpconfig
+/config.zip
