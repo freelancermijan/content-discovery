@@ -8,3 +8,4 @@
 /.ftpconfig
 /config.zip
 /api/.env
+/app_dev.php/_profiler/open?file=app/config/parameters.yml
