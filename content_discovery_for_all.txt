@@ -7,3 +7,4 @@
 /servudaemon.ini
 /.ftpconfig
 /config.zip
+/api/.env
